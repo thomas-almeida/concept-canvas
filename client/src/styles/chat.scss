@@ -1,0 +1,63 @@
+.chat-container {
+    background-color: #cccc;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chat-container-content{
+    position: relative;
+    width: 75%;
+    height: 90vh;
+}
+
+.chat-input {
+    position: absolute;
+    z-index: 9999999;
+    bottom: 0px;
+    width: 100%;
+}
+
+.message-card {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.message-card img{
+    width: 40px;
+    height: 40px;
+    background-color: #333;
+    border-radius: 100%;
+}
+
+.message-role {
+    padding: 10px;
+    height: 75vh;
+    overflow-y: auto;
+}
+
+.message-card b{
+    font-size: 1.2rem;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #cccc; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  } 
