@@ -1,5 +1,7 @@
 ## ConceptCanvas
 
+![img](https://uploaddeimagens.com.br/images/004/739/722/full/358shots_so.png?1707896070)
+
 Breve documentação do projeto, o objetivo desta documentação é de forma simples e objetiva, ajudar a dar os primeiros passos e acessar plenamente o app.
 
 > Stack: Node.js, Express, Prisma (SQLite)
