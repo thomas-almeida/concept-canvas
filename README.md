@@ -13,12 +13,19 @@ Breve documentação do projeto, o objetivo desta documentação é de forma sim
 Voce pode testar o conceptCanvas no seu ambiente de desenvolvimento de uma forma muito simples, o projeto está dividido em dois ambientes: Backend (pasta **server**) e Frontend (pasta **client**)
 
 - Arquivo **.env** na pasta server: Para que o app de as respostas sobre as ideias de startups, é necessário uma chave da Api do chatgpt, disponível no site da própria OpenAi, uma vez que tiver a sua, poderá inseri-la como cita o arquivo **.env.example** que contém o exemplo de como inserir corretamente sua chave no projeto para o backend conseguir acessar o chatgpt.
-> OPENAI_API_KEY = "SUA_CHAVE"
+
+```.env
+OPEN_AI_API_KEY="SUA_CHAVE"
+```
 
 - Iniciar o **backend**: Para acessar o backend basta dar o comando **node .** na raiz da pasta **server**
-> node .
+```bash
+ $ node .
+```
 - Iniciar o **frontend**: Para iniciar o cliente basta dar o comando **npm run dev** na raiz da pasta **client**
-> npm run dev
+```bash
+ $ npm run dev
+```
 ----
 
 ## Funcionamento do App
