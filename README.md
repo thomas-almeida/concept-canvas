@@ -4,7 +4,7 @@
 
 Breve documentação do projeto, o objetivo desta documentação é de forma simples e objetiva, ajudar a dar os primeiros passos e acessar plenamente o app.
 
-> Stack: Node.js, Express, Prisma (SQLite)
+#### Stack: Node.js, Express com a Api da OpenAI
 
 ---- 
 
