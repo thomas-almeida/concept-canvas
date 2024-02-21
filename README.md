@@ -1,6 +1,6 @@
 # ConceptCanvas
 
-![Imagem do ConceptCanvas](https://uploaddeimagens.com.br/images/004/739/722/full/358shots_so.png?1707896070)
+![Imagem do ConceptCanvas](https://uploaddeimagens.com.br/images/004/744/610/full/concept-canvas-shot.png?1708534455)
 
 Esta é uma breve documentação do projeto ConceptCanvas, elaborada para auxiliar de forma simples e objetiva os usuários a darem os primeiros passos e explorarem plenamente o aplicativo.
 
