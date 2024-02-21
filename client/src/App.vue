@@ -2,7 +2,7 @@
   <div class="container">
     <div class="container-content">
       <div class="side form-area">
-        <h1>StartUp-Se!</h1>
+        <h1>StartupFy</h1>
         <h4>
           Crie sua ideia de StartUp em poucos cliques, 
           preencha os campos e gere maiores insights sobre como tirar sua ideia do papel!

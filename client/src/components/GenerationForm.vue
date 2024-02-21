@@ -70,11 +70,16 @@ export default {
       this.loading = true
 
       const b2cIdeaPrompt = {
-        message: `Crie uma ideia de startup inovadora no ramo de ${this.form.businessBranch}, com um publico alvo ${this.form.targetAudienceModel}, além disso, ${this.form.innovativeIdea}, devolva sua resposta em formato markdown`
+        message: `Crie uma ideia de startup inovadora no ramo de ${this.form.businessBranch}, 
+        com um publico alvo ${this.form.targetAudienceModel}, 
+        além disso, ${this.form.innovativeIdea}, 
+        devolva sua resposta em formato markdown`
       }
 
       const b2bIdeaPrompt = {
-        message: `Crie uma ideia de startup inovadora no ramo de ${this.form.businessBranch}, com publico alvo sendo empresas, além disso, ${this.form.innovativeIdea}, devolva sua resposta em formato markdown`
+        message: `Crie uma ideia de startup inovadora no ramo de ${this.form.businessBranch},
+        com publico alvo sendo empresas, além disso, 
+        ${this.form.innovativeIdea}, devolva sua resposta em formato markdown`
       }
 
       try {
